@@ -77,7 +77,7 @@ export default function Home() {
                             Back
                         </Button>
                         <div className="topic">
-                            <h1 className="topicText">My Inbound Pipeline</h1>
+                            <h2 className="topicText">My Inbound Pipeline</h2>
                             <EditOutlined className="iconStyle" />
                         </div>
                     </div>
