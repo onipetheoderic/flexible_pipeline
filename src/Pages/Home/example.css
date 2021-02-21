@@ -1,0 +1,14 @@
+
+
+.parentDiv {
+    margin-top: 100px;
+    display:flex;
+    justify-content: space-between;
+}
+
+.parentCont {
+  width:90%;
+  margin-left:auto;
+  margin-right:auto;
+  
+}

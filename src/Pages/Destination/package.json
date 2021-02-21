@@ -1,0 +1,8 @@
+{
+  "name": "destination",
+  "version": "0.0.1",
+  "private": true,
+  "description": "this is the destination page",
+  "author": "Theoderic and Ignatius",
+  "main": "destination.js"
+}

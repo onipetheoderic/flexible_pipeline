@@ -1,0 +1,8 @@
+{
+  "name": "home",
+  "version": "0.0.1",
+  "private": true,
+  "description": "this is the landing page",
+  "author": "Theoderic and Ignatius",
+  "main": "home.js"
+}

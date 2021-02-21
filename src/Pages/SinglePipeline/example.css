@@ -1,0 +1,36 @@
+.topicAndButtonParent {
+  display:flex;
+  justify-content: space-between;
+  width:40%
+}
+.topic {
+  background-color: #f5f5f5;
+  display:flex;
+  align-items: center;
+}
+
+.iconStyle {
+  font-size: 20px;
+  padding:0px 20px;
+  margin:0px;
+}
+
+.topicText {
+  padding:0px 10px;
+  margin:0px;
+ 
+}
+
+.parentDiv {
+    margin-top: 100px;
+    display:flex;
+    justify-content: space-between;
+    margin-bottom:20px;
+}
+
+.parentCont {
+  width:90%;
+  margin-left:auto;
+  margin-right:auto;
+  
+}

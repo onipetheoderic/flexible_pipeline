@@ -1,0 +1,25 @@
+.menu-style {
+  line-height: 50px;
+  min-height: 100vh;
+}
+
+@media screen and (max-width: 600px) {
+  .menu-style {
+    line-height: 50px;
+    min-height: 0px;
+  }
+}
+
+.parentCol {
+  margin-top:20px;
+  background-color: blue;
+}
+
+.spacer {
+  margin-top: 40px;
+}
+
+.your-active-class {
+  color:blue;
+  font-weight:bold;
+}

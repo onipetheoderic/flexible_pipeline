@@ -1,0 +1,8 @@
+{
+  "name": "single_pipeline",
+  "version": "0.0.1",
+  "private": true,
+  "description": "This is the single pipeline page",
+  "author": "Theoderic and Ignatius",
+  "main": "singlePipeline.js"
+}
